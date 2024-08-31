@@ -1,0 +1,7 @@
+name = "ImageInspector"
+uuid = "13cbbd71-b239-48a1-9ff6-57eaa727ef92"
+authors = ["Purboday Ghosh"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"
