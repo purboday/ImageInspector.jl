@@ -1,1 +1,3 @@
 # ImageInspector [![Build Status](https://github.com/purboday/ImageInspector.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/purboday/ImageInspector.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+
+This is an example of how the package management system works and how to use the Revise package to develop and test it. The `ImageIspector` package contains some siple functions to load and plot an array of images in agrid either in grayscale or color.

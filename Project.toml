@@ -3,5 +3,9 @@ uuid = "13cbbd71-b239-48a1-9ff6-57eaa727ef92"
 authors = ["Purboday Ghosh"]
 version = "1.0.0-DEV"
 
+[deps]
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+
 [compat]
 julia = "1.7"
