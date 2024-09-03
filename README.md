@@ -2,4 +2,4 @@
 
 The `ImageIspector` package contains some simple functions to load and plot an array of images in a grid either in grayscale or color. The examples directory contains example usage of the package, the test diectory contains some unit tests.
 
-The MLDataSets pacage is used to load sample data sets.
+The MLDataSets package is used to load sample data sets.
